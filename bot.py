@@ -27,4 +27,4 @@ async def dream(ctx, *, prompt):
     await msg.edit(content=f"“{prompt}”\n{image}")
 
 
-bot.run(os.environ[MTEyNjUzNjg0MTc4OTcxODU4OA.GwU9lo.mqivCdwIUgKcoOCOldxcZ5rJJ-u5kTZzbcXQvk])
+bot.run(os.environ["DISCORD TOKEN"])
